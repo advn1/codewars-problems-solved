@@ -1,6 +1,8 @@
-Current goal: practice strings and javascript string methods
+# Goal
+Practice strings and javascript string methods
 
-Codewars rank: 6kyu, 132 points (4.6%)
+# Statistics
+Codewars rank: 6kyu, 164 points (25.5%)
 
 Challenges done:
 ## 6 kyu
