@@ -2,9 +2,12 @@
 Practice strings and javascript string methods
 
 # Statistics
-Codewars rank: 6kyu, 164 points (25.5%)
+Codewars rank: 6kyu, 164 points (39.2%)
 
 Challenges done:
+##5 kyu
+1.[The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
+
 ## 6 kyu
 1. [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 2. [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
