@@ -1,6 +1,6 @@
 Current goal: practice strings and javascript string methods
 
-Codewars rank: 7kyu, 94 points
+Codewars rank: 6kyu, 132 points (4.6%)
 
 Challenges done:
 ## 6 kyu
@@ -11,6 +11,7 @@ Challenges done:
 5. [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 6. [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 7. [Texting with an old-school mobile phone](https://www.codewars.com/kata/5ca24526b534ce0018a137b5) (with help)
+8. [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 
 ## 7 kyu
 1. [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
