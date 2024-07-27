@@ -2,11 +2,16 @@
 Practice strings and javascript string methods
 
 # Statistics
-Codewars rank: 6kyu, 164 points (39.2%)
+Codewars rank: 5kyu, 259 points (0.5%)
 
 Challenges done:
+
 ##5 kyu
 1.[The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
+2 [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
+3.[String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
+4. [Scramblies](https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
+5. [Not very secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
 
 ## 6 kyu
 1. [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003)
@@ -21,10 +26,12 @@ Challenges done:
 10. [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 11. [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 12. [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
+13. [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
     
 ## 7 kyu
 1. [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 2. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+3. [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 
 ## 8 kyu
 1. [Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076)
