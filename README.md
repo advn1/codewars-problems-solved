@@ -6,7 +6,7 @@ Codewars rank: 5kyu, 259 points (0.5%)
 
 Challenges done:
 
-##5 kyu
+## 5 kyu
 1.[The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
 2 [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
 3.[String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
