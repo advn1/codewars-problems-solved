@@ -27,6 +27,8 @@ Challenges done:
 11. [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 12. [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
 13. [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
+14. [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
+15. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
     
 ## 7 kyu
 1. [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
