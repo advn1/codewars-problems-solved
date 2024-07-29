@@ -29,6 +29,9 @@ Challenges done:
 13. [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148)
 14. [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
 15. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58)
+16. [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
+17. [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245)
+18. [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
     
 ## 7 kyu
 1. [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
