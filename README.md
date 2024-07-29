@@ -2,9 +2,12 @@
 Practice strings and javascript string methods
 
 # Statistics
-Codewars rank: 5kyu, 259 points (0.5%)
+Codewars rank: 5kyu, 331 points (23.4%)
 
 Challenges done:
+
+## 4 kyu
+1.[Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 
 ## 5 kyu
 1. [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
